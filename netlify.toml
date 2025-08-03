@@ -1,0 +1,4 @@
+# Fichier de configuration pour Netlify
+[build]
+  # Indique à Netlify où trouver les fonctions
+  functions = "functions"
