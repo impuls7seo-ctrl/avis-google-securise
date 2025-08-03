@@ -1,0 +1,8 @@
+{
+  "name": "google-reviews-secure-function",
+  "version": "1.0.0",
+  "description": "Dépendances pour la fonction Netlify",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
